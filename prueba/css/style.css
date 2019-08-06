@@ -1,0 +1,156 @@
+#intro {
+	background-color: #222222;
+	color: #FFFFFF;
+}
+
+#intro h1 {
+	text-align: left;
+	margin-left: 25px;
+	font-weight: bolder;
+	font-size: 50px;
+	letter-spacing: 2px;
+	margin-top: 180px;
+}
+
+#intro p {
+	text-align: left;
+	margin-left: 25px;
+	font-size: 20px;
+}
+
+#trend {
+	padding: 100px;
+}
+
+#trend h2 {
+	font-weight: bolder;
+	text-align: left;
+	margin-top: 60px;
+	font-size: 50px;
+	
+}
+
+#trend p {
+margin-top: 20px;
+	text-align-last: left;
+	font-size: 19px;
+	
+}
+
+#services {
+	padding: 100px;
+	text-align: center;
+	align-content: center;
+	
+}
+
+#services h2 {
+	font-weight: bolder;
+	font-size: 39px;
+	margin-bottom: 20px;
+}
+
+#services p {
+	font-size: 18px;
+	margin-bottom: 50px;
+}
+
+#products {
+	padding: 100px;
+	background-color: #FDEADC;
+	align-content: center;
+	text-align: left;
+	
+}
+
+#products h2 {
+	font-weight: bold;
+	font-size: 40px;
+	margin-bottom: 70px;
+	margin-top: 120px;
+	margin-left: 20px;
+}
+
+#products p {
+	font-size: 17px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+}
+
+#testimonio1 h3 {
+	text-align: center;
+	align-content: center;
+	margin-top: 30px;
+	font-size: 60px;
+}
+
+#testimonio1 h4 {
+	font-size: 23px;
+	font-weight: 400;
+	text-align: center;
+}
+
+#testimonio1 h5 {
+	font-size: 18px;
+	font-weight: 700;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#testimonio1 h6 {
+	font-size: 12px;
+	font-weight: 700;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#testimonio2 h3 {
+	text-align: center;
+	align-content: center;
+	margin-top: 30px;
+	font-size: 60px;
+}
+
+#testimonio2 h4 {
+	font-size: 23px;
+	font-weight: 400;
+	text-align: center;
+}
+
+#testimonio2 h5 {
+	font-size: 18px;
+	font-weight: 700;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#testimonio2 h6 {
+	font-size: 12px;
+	font-weight: 700;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#contact {
+	margin-left: 30px;
+	padding: 70px;
+}
+
+#contact h2 {
+	font-weight: bolder;
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+#contact p {
+	font-size: 15px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+}
+
+footer { 
+background-color: #000000;
+	align-content: center;
+	text-align: center;
+	padding: 30px 0;
+}

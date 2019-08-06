@@ -1,0 +1,206 @@
+#home {
+	background-image: url("../img/section_1.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 350px;
+	padding: 150px 0;
+	margin-left: 100px;
+}
+
+#home h1 {
+	font-family: "Hearth Stone";
+	color: #e04f58;
+	margin-left: 250px;
+	font-size: 55px;
+}
+
+#home h2 {
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #000000;
+	font-size: 25px;
+	letter-spacing: 5px;
+	font-weight: 700;
+	margin-left: 250px;
+	margin-bottom: 30px;
+}
+
+#foam {
+	background-color: #f7f7f7;
+	align-content: center;
+	text-align: center;
+	padding: 30px 0;
+}
+
+#foam h3 {
+	font-family: "Hearth Stone";
+	color: #e04f58;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#foam h4 {
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #000000;
+	font-size: 17px;
+	letter-spacing: 5px;
+	font-weight: 700;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#foam p {
+	font-family: "Century Gothic", "Champagne & Limousines";
+	font-size: 15px;
+	text-align: left;
+	margin-right: 60px;
+}
+
+.btn {
+	background-color: #e04f58;
+	font-family: "Century Gothic", "Champagne & Limousines";
+	font-size: 15px;
+	margin-bottom: 35px;
+}
+
+#beneficios {
+	background-color: #FFFFFF;
+	align-content: center;
+	text-align: center;
+	padding: 30px 0;
+}
+
+#beneficios h3 {
+	font-family: "Hearth Stone";
+	color: #e04f58;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#beneficios h4 {
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #000000;
+	font-size: 17px;
+	letter-spacing: 5px;
+	font-weight: 700;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#beneficios p {
+	font-family: "Century Gothic", "Champagne & Limousines";
+	font-size: 15px;
+	text-align: left;
+	margin-left: 60px;
+}
+
+#clientes {
+	background-color: #f7f7f7;
+	align-content: center;
+	text-align: center;
+}
+
+#clientes h3 {
+	font-family: "Hearth Stone";
+	color: #e04f58;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 100px;
+}
+
+#clientes h4{
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #000000;
+	font-size: 17px;
+	letter-spacing: 5px;
+	font-weight: 700;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#clientes p {
+	font-family: "Century Gothic", "Champagne & Limousines";
+	font-size: 15px;
+	text-align: left;
+	margin-right: 60px;
+	margin-left: 30px;
+}
+
+#encuentranos {
+	background-color: #FFFFFF;
+	align-content: center;
+	text-align: center;
+	padding: 30px 0;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#encuentranos h3 {
+	font-family: "Hearth Stone";
+	color: #e04f58;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#encuentranos h4{
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #000000;
+	font-size: 17px;
+	letter-spacing: 5px;
+	font-weight: 700;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.btn-light {
+	background-color: #e04f58;
+	font-family: "Century Gothic", "Champagne & Limousines";
+	font-size: 15px;
+	margin-bottom: 35px;
+	margin-top: 50px;
+	color: #FFFFFF;
+}
+
+#contacto {
+	background-color: #f7f7f7;
+	align-content: center;
+	text-align: center;
+	padding: 10px 150px;
+}
+
+#contacto h3 {
+	font-family: "Hearth Stone";
+	color: #e04f58;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#contacto h4{
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #000000;
+	font-size: 17px;
+	letter-spacing: 5px;
+	font-weight: 700;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#slides h1,
+.carousel-caption h1{
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #FFFFFF;
+	font-size: 65px;
+	letter-spacing: 5px;
+	font-weight: 700;
+}
+
+footer {
+	background-color: #e04f58;
+	color: #FFFFFF;
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	text-align: center;
+	padding: 10px 0;
+}
